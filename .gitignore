@@ -1,0 +1,5 @@
+*.suo
+*.opendb
+*.db
+*.txt
+*.ipch
